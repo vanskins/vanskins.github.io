@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage" : "http://vanskins.github.io/",
+  "homepage" : "http://vanskins.github.io/portfolio-website",
   "eslintConfig": {
     "extends": "react-app"
   },
